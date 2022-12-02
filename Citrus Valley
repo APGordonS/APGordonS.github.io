@@ -1,1 +1,30 @@
+<html>
+    <head>
+        <style>
+            h1 {color:red;}
+            p {color:blue;}
+            a {text-decoration: none; color:yellow;}
+            a:hover {color: black;}
+        </style>
+   
 
+    </head>
+    
+    <body style="background-color:#008B8B;">
+        <nav>
+            <a href="index.html"> Page One </a> | <a href="Christmas.html"> Page Two </a> | <a href="CV.html"> Page Three </a>
+        </nav>
+        <h1 style="color:yellow;">Greatets scool is.....</h1>
+        <h1 style="color:black;">CV the best</h1> 
+        <h2>Set up the goalllllsssssss</h2>
+        <iframe width="1280" height="720" src="https://www.youtube.com/embed/s5YsdEiiQNc" title="A Very Spidey Christmas - Spidey & his Amazing Friends" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+        <ul>
+            <li>Soccer</li>
+            <li>football</li>
+            <li>here at CV</li>
+        </ul>
+
+        <img src="https://i.natgeofe.com/k/dfc7bec2-0657-4887-81a7-6d024a8c3f70/WH-XmasTree_4x3.jpg" alt="download" width="500" height="300">
+    </body>
+    
+    </html>
